@@ -1,0 +1,28 @@
+name: EverydayLinguistics
+favicon: null
+layout_spectrum: 0.13046474638395011
+typography_spectrum: 0.19901745463721454
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4570708521641791
+  lightness: 0.9451689806301147
+  saturation: 0.03450853540562093
+  rhythmicContrast: 0.6842676890082657
+purpose: []
